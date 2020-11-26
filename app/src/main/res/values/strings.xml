@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LaborD4</string>
+    <string name="my_notes">Mano užrašai</string>
+    <string-array name="option_type">
+        <item name="show_menu">Pasirinkite</item>
+        <item name="create_note">Sukurti užrašą</item>
+        <item name="delete_note">Ištrinti užrašą</item>
+    </string-array>
+    <string name="saveNote">Išsaugoti</string>
+    <string name="delete">Šalinti įrašą</string>
+</resources>
